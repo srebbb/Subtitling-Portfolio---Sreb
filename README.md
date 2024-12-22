@@ -1,6 +1,6 @@
 # Subtitling Portfolio - Sreb
 
-Welcome to my professional subtitling portfolio repository! Here, you'll find examples of my work in creating accurate and engaging subtitles for various types of content, including movies, educational videos, and music clips.
+Welcome to my professional subtitling portfolio repository! Here, you'll find examples of my work in creating accurate and engaging subtitles for various types of content.
 
 ---
 
