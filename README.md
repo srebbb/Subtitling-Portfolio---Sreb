@@ -5,7 +5,7 @@ Welcome to my professional subtitling portfolio repository! Here, you'll find ex
 ---
 
 ## About Me
-Hi, I'm **Sreb**, a skilled subtitler specializing in Hebrew and English. With a passion for storytelling and accessibility, I bring videos to life with clear and precise subtitles that resonate with diverse audiences.
+Hi, I'm **Sreb**, a skilled subtitler specializing in Hebrew and English. With accessibility, I bring videos to life with clear and precise subtitles that resonate with diverse audiences.
 
 ---
 
@@ -13,9 +13,10 @@ Hi, I'm **Sreb**, a skilled subtitler specializing in Hebrew and English. With a
 - **Multilingual Subtitling**: Hebrew ↔ English.
 - **Accurate Timing**: Seamless synchronization with audio.
 - **Diverse Content Expertise**:
-  - Movie scenes
-  - Educational tutorials
+  - Movies or movie scenes
+  - Episodes
   - Music videos
+  - And even long-term projects.
 
 ---
 
@@ -27,21 +28,19 @@ Hi, I'm **Sreb**, a skilled subtitler specializing in Hebrew and English. With a
 
 ## Portfolio Samples
 Explore examples of my work in this repository:
-- `.srt` files for standalone subtitles.
 - Sample video clips demonstrating subtitling precision and quality.
 
 ---
 
 ## How to View
 To see the subtitles in action:
-1. Download the `.srt` file and a corresponding video sample.
-2. Use a subtitle-compatible media player, such as **VLC Media Player**.
-
+- Download the video i included.
+- Run it on a video player and see samples of my subtitling.
 ---
 
 ## Contact Me
 Have a project that needs professional subtitling? Let's collaborate!
-- Email: [sreb.subtitles@gmail.com](mailto:sreb.subtitles@gmail.com)
+- Email: [srebsubtitles@gmail.com]
 
 ---
 
